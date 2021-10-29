@@ -6,7 +6,7 @@
 
 Prevendo o faturamento de vendas de diferentes unidades de uma rede farmacêutica.
 
-![Rossmann Logo](/home/dimitri/github/DsEmProducao/img/Rossman.jpeg)
+![Rossmann Logo](img/Rossman.jpeg)
 
 
 
@@ -68,7 +68,7 @@ O deploy do modelo final será via api a ser construída, disponível em **https
 
 Várias hipóteses foram formuladas e testadas com base nos dados, com o objetivo de entender a dinâmica do comportamento de venda das unidades.  o mapa mental abaixo auxilia esta etapa, agrupando os principais pontos que afetam vendas de um negócio.
 
-![Mapa mental de Hipóteses](/home/dimitri/github/DsEmProducao/img/mindmap_hypothesis.png)
+![Mapa mental de Hipóteses](img/mindmap_hypothesis.png)
 
 Os 5 maiores insights do negócio foram:
 
